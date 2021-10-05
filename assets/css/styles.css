@@ -413,3 +413,30 @@ html {
 
 }
 
+@media screen and (max-width: 375px) {
+   .img-inicio {
+     width: 100%;
+     max-width: 250px;
+   }
+
+   #copy {
+     margin-bottom: 15vh;
+   }
+
+   .img-sobre {
+    width: 100%;
+    max-width: 250px; 
+   }
+
+  .text-app {
+    text-align: center;
+    width: 350px;
+  }
+
+  #img-app img {
+    width: 100%;
+    max-width: 160px;
+  }
+}
+
+
